@@ -1,2 +1,2 @@
 # cdpr
-Code from CDPR project
+Code from CDPR project (Cable-Driven Parallel Robot)
